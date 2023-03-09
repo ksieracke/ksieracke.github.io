@@ -1,6 +1,7 @@
 html{
   background-color: rgba(0,35,102,.4);
   margin: 1em;
+  max-width: 75%;
 }
 .date{
   font-style:italic;
